@@ -65,9 +65,9 @@ Infrastructure as Code configurations for AWS deployment.
 
 ## Documentation
 
-- [Architecture Overview](Infrastructure/docs/README.md)
-- [Deployment Guide](Infrastructure/docs/README.md)
-- [API Reference](Infrastructure/docs/README.md)
+- [Infrastructure Documentation](Infrastructure/docs/README.md)
+- [Deployment Guide](Infrastructure/terraform/README.md)
+- [Agent Specification](Aidlc-plan/environment-agent.md)
 
 ## License
 
